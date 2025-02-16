@@ -6,7 +6,7 @@ actual class PaymentSheet
 
 @Composable
 actual fun rememberPaymentSheet(resultHandler: PaymentSheetResultHandler): PaymentSheet {
-    TODO("Not yet implemented")
+    return PaymentSheet()
 }
 
 actual fun presentStripePaymentSheet(

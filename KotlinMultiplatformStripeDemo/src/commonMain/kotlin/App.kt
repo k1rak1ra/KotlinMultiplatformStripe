@@ -42,8 +42,8 @@ fun App() {
                     true
                 )
 
-                PaymentConfiguration.init("pk_test_51QVMQMG27rpSTHjUsC5L87a50NLREZ8NPo7ui3X1lhj01hAmvBzCVyEkrChdw1IXfRnWeYWViG6Gvd36TtKVg0Jb00E2niYvzX")
-                val paymentIntentClientSecret = "pi_3QnN8eG27rpSTHjU1fkcIkgx_secret_RFQEkpCmfARLJ9LyC9OQ2nj3b"
+                PaymentConfiguration.init("YOUR_PK")
+                val paymentIntentClientSecret = "YOUR_PI"
 
                 Button(
                     onClick = {

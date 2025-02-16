@@ -1,0 +1,11 @@
+framework module StripeIosBridge {
+  umbrella header "StripeIosBridge.h"
+  export *
+
+  module * { export * }
+}
+
+module StripeIosBridge.Swift {
+  header "StripeIosBridge-Swift.h"
+  requires objc
+}

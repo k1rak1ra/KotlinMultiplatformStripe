@@ -1,0 +1,4 @@
+language = Objective-C
+package = StripeIosBridge
+headers = Headers/StripeIosBridge-Swift.h Headers/StripeIosBridge.h
+staticLibraries = StripeIosBridge

@@ -63,10 +63,10 @@ fun App() {
                     true
                 )
 
-                PaymentConfiguration.init("pk_test_51QVMQMG27rpSTHjUsC5L87a50NLREZ8NPo7ui3X1lhj01hAmvBzCVyEkrChdw1IXfRnWeYWViG6Gvd36TtKVg0Jb00E2niYvzX")
+                PaymentConfiguration.init("")
                 val paymentIntentClientSecret = "YOUR_PI"
                 val bankAccountSetupRequest = CollectBankAccountSetupRequest(
-                    "seti_1Qu3pbG27rpSTHjUF74lK4Um_secret_Rnf9svHzNYPgDyoopJPaF1lKss4t87s",
+                    "",
                     "Test User",
                     "test@example.com"
                 )

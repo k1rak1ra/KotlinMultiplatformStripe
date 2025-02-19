@@ -18,7 +18,7 @@
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe</key>
 		<data>
-		ILzi0BTH59nLJc5pwAhxSUN+0WY=
+		Q39p1XbNl5pC6g1AYbW1xs4w+ok=
 		</data>
 		<key>Frameworks/Stripe.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Frameworks/Stripe3DS2.framework/Stripe3DS2</key>
 		<data>
-		oqdQxYq6Suq+161yNOXsdw9afIQ=
+		mHBLG3l1J8OA0YhfItdJDPolsy8=
 		</data>
 		<key>Frameworks/Stripe3DS2.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -447,7 +447,7 @@
 		</data>
 		<key>Frameworks/StripeApplePay.framework/StripeApplePay</key>
 		<data>
-		VvxD0j17tF+ssW2lh0b6eoz4q90=
+		gAaUheYc3DTYBq5O8HdP4HnIhX0=
 		</data>
 		<key>Frameworks/StripeApplePay.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -459,7 +459,7 @@
 		</data>
 		<key>Frameworks/StripeCameraCore.framework/StripeCameraCore</key>
 		<data>
-		TmEYMT+UsF4fiFT8PahqpygF/4w=
+		W8sUJHwS6cmfGK9BQLSNahigtLY=
 		</data>
 		<key>Frameworks/StripeCameraCore.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -503,7 +503,7 @@
 		</data>
 		<key>Frameworks/StripeCardScan.framework/StripeCardScan</key>
 		<data>
-		oB3zAYP2fwDA/PWwttqIZlD8NkA=
+		dQ1SmNz0tqaHNzXONKan0jHVYhE=
 		</data>
 		<key>Frameworks/StripeCardScan.framework/UxModel.mlmodelc/analytics/coremldata.bin</key>
 		<data>
@@ -920,7 +920,7 @@
 		</data>
 		<key>Frameworks/StripeCore.framework/StripeCore</key>
 		<data>
-		xS6w/v9pzscfbGPGLxUhj/cCAjE=
+		TjYqo6Di+XaiTT/YIM6QaMUwNSs=
 		</data>
 		<key>Frameworks/StripeCore.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -1305,7 +1305,7 @@
 		</data>
 		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections</key>
 		<data>
-		PJQJD3WOuH0SN0vpHUm7bH9Ukls=
+		jbuqD3zHf098f65KqLdPUfYBQ6M=
 		</data>
 		<key>Frameworks/StripeFinancialConnections.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -1758,7 +1758,7 @@
 		</data>
 		<key>Frameworks/StripeIdentity.framework/StripeIdentity</key>
 		<data>
-		rL6qtbRgHr78jzRaQxI6ZqPwzrA=
+		eArRS2QsQNQMiBO0u49J3xs5lXA=
 		</data>
 		<key>Frameworks/StripeIdentity.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -2231,7 +2231,7 @@
 		</data>
 		<key>Frameworks/StripePaymentSheet.framework/StripePaymentSheet</key>
 		<data>
-		66NmoJK4r03BwiUpmWYoZ+z2xqg=
+		O87BBdseYVEk2WNEItNr8w+Jv6w=
 		</data>
 		<key>Frameworks/StripePaymentSheet.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -2625,7 +2625,7 @@
 		</data>
 		<key>Frameworks/StripePayments.framework/StripePayments</key>
 		<data>
-		QCHH9AoGGJY+S7E6LkMPW4h7Zi4=
+		2+yCs9+k/aPy+pyhjMoOBNpqQ94=
 		</data>
 		<key>Frameworks/StripePayments.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -3019,7 +3019,7 @@
 		</data>
 		<key>Frameworks/StripePaymentsUI.framework/StripePaymentsUI</key>
 		<data>
-		qSQaMuNzo8fY6b1H5+wUfQtRz74=
+		6uwKEX6jZJZSCDBPOKdSz9LHE4s=
 		</data>
 		<key>Frameworks/StripePaymentsUI.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -3417,7 +3417,7 @@
 		</data>
 		<key>Frameworks/StripeUICore.framework/StripeUICore</key>
 		<data>
-		HCSBflZHhjTeTUZvjKJVK39O3zY=
+		l9iOeoaQyMIyB5qnJ9yV/5RpFpk=
 		</data>
 		<key>Frameworks/StripeUICore.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -3802,7 +3802,7 @@
 		</dict>
 		<key>Headers/StripeIosBridge-Swift.h</key>
 		<data>
-		DM8jwEGWxK3WyMfOKEG6vd+6asU=
+		ZD3N2rZM89Bvo85nsiWqoYn8DzQ=
 		</data>
 		<key>Headers/StripeIosBridge.h</key>
 		<data>
@@ -3822,7 +3822,7 @@
 		</data>
 		<key>Modules/StripeIosBridge.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		gv7S4qFMlvFK5xZspAI7LhNEr9o=
+		6b6GA01kA4Fcq/KPdIO73aZgc1A=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -3856,7 +3856,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WM2vJnDNAqErP2B8hjnwn2rzHX4QHm4oce802iRYhgA=
+			PyA/EZT2+eE1nlTlyPvY4WFHdrQXZ8d7aihOhQolAqA=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/_CodeSignature/CodeResources</key>
@@ -3891,7 +3891,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aGZMvMTmAdHZnUODEWBHn5SOtHy6jBEsr09zSxRcFUI=
+			alL/DFNwW2331TfrQYwgfo3sHpwqphEkdj84w9LtU6M=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe3DS2.framework/_CodeSignature/CodeResources</key>
@@ -4330,7 +4330,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			F8nFzRIItzJHTqfek6sei3oJHVl5OvxZpIxTnncilSo=
+			kvCvsK28FGV71JyzRrre3x9+MT5/oVBZbdiLGBCrwQM=
 			</data>
 		</dict>
 		<key>Frameworks/StripeApplePay.framework/_CodeSignature/CodeResources</key>
@@ -4351,7 +4351,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bpRZa+oMaQKZUUwGitixDxl8Zj6TyZpRMDmzLb9OrWw=
+			tpOY6q4aMD3/75Pelu8kng+k8QFNORzjb27lz/Q9WQc=
 			</data>
 		</dict>
 		<key>Frameworks/StripeCameraCore.framework/_CodeSignature/CodeResources</key>
@@ -4428,7 +4428,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yIX/rRlJDDbWKukRieVh4aUQe0Nk8u0YaxttkWmql6w=
+			SJfUFTbf8ty2vj6y94Ha/DTVdC173t7h8VWmVafYiK0=
 			</data>
 		</dict>
 		<key>Frameworks/StripeCardScan.framework/UxModel.mlmodelc/analytics/coremldata.bin</key>
@@ -4881,7 +4881,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YMf6cHG3oy2Xrsn7jNbQ0j9XAEfmiVXi2wFszfWoekU=
+			d6FSJt/yNxmZ6PhgnUFlWWFLAtbZsnvMsiKcjTN1vgE=
 			</data>
 		</dict>
 		<key>Frameworks/StripeCore.framework/_CodeSignature/CodeResources</key>
@@ -5278,7 +5278,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2VcQB5MqPqFMogjtZI51UvJ9+hLKLst0SsutrGm4qQo=
+			4i84kHUP8bqS7FkCahaPd7F7o6gZqHDGzDH6zmS+tnA=
 			</data>
 		</dict>
 		<key>Frameworks/StripeFinancialConnections.framework/_CodeSignature/CodeResources</key>
@@ -5794,7 +5794,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eS9NitpPFhW4bexA4PSQdG7tj6oPZtyXG8GZ471VXJo=
+			aGJHeu+OC5pOdwcrLGscKOBDdAiCLJZFj/t89/ymzM0=
 			</data>
 		</dict>
 		<key>Frameworks/StripeIdentity.framework/_CodeSignature/CodeResources</key>
@@ -6345,7 +6345,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5po/ZAZkDwSc9fEic6V9LH4SzLhkm4I3m0WD0NPgO3Y=
+			UC5lcjuH/HgOLXuW+txiND2Xch1OKqGl9y5sOHzgshU=
 			</data>
 		</dict>
 		<key>Frameworks/StripePaymentSheet.framework/_CodeSignature/CodeResources</key>
@@ -6751,7 +6751,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S1I1Fgenvrfrtj0JP2mDd+jJ6cRinq3hlPjn+3uEVbE=
+			8Hcn5EmyzCP6rhBFvIE6ZfrCIEdUTbL+mJ4UGIu6uYQ=
 			</data>
 		</dict>
 		<key>Frameworks/StripePayments.framework/_CodeSignature/CodeResources</key>
@@ -7157,7 +7157,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			g6pWRPmEZ9Df+sPmKxb+qz2CjN1RFRH7SKgOU7MBiRc=
+			HYh+LCs8I6ka1pZ3meD8K/t0Dd/OghHFuRamDwoy6T4=
 			</data>
 		</dict>
 		<key>Frameworks/StripePaymentsUI.framework/_CodeSignature/CodeResources</key>
@@ -7570,7 +7570,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			72qFJbQOIXBKvkhlMj+akv/m3ShAR5Kuw6J1vkBCvKI=
+			GlwyVSKcd6eauGmqrW9H0zriSFf0HX036tBm6TXJhzs=
 			</data>
 		</dict>
 		<key>Frameworks/StripeUICore.framework/_CodeSignature/CodeResources</key>
@@ -7967,7 +7967,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			385eD8YlswUzMY8/xF02vSi2kgT+4RXiE0y/JopyM9w=
+			jOd1m2/UVTHyKbTDJAbEcq4O9t1/reZR5H9H5HZHxSk=
 			</data>
 		</dict>
 		<key>Headers/StripeIosBridge.h</key>
@@ -7995,7 +7995,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wbTHbXtr3h0Qvol83lPotbsa1gyHo/EtXiQD2y/SEUI=
+			u3hfMS0ztEh9X+klM3wg4mNmxdgxq3Y4BfDfA7v0eQM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

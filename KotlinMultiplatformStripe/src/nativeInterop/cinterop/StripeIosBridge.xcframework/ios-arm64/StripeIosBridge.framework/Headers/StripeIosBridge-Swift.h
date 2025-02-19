@@ -302,7 +302,15 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 #if defined(__OBJC__)
+@class UIViewController;
 @class NSString;
+
+SWIFT_CLASS("_TtC15StripeIosBridge16BankAccountSetup")
+@interface BankAccountSetup : NSObject
+- (void)showWithViewController:(UIViewController * _Nonnull)viewController name:(NSString * _Nonnull)name email:(NSString * _Nonnull)email clientSecret:(NSString * _Nonnull)clientSecret returnUrl:(NSString * _Nonnull)returnUrl completed:(void (^ _Nonnull)(NSString * _Nonnull))completed canceled:(void (^ _Nonnull)(void))canceled failed:(void (^ _Nonnull)(NSError * _Nonnull))failed;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
 
 SWIFT_CLASS("_TtC15StripeIosBridge27StripeCustomerConfiguration")
 @interface StripeCustomerConfiguration : NSObject
@@ -323,7 +331,6 @@ SWIFT_CLASS("_TtC15StripeIosBridge27StripeMerchantConfiguration")
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
-@class UIViewController;
 
 SWIFT_CLASS("_TtC15StripeIosBridge12StupidBridge")
 @interface StupidBridge : NSObject

@@ -15,6 +15,9 @@ stripe-ios = "24.5.0"
 sharedpref = "1.1.1"
 swiftklib = "0.6.4"
 browser = "0.3"
+appcompat = "1.7.0"
+material = "1.12.0"
+activity = "1.10.0"
 
 [libraries]
 kotlin-test = { module = "org.jetbrains.kotlin:kotlin-test", version.ref = "kotlin" }
@@ -26,6 +29,10 @@ androidx-ui-test-manifest = { module = "androidx.compose.ui:ui-test-manifest", v
 k1ra-sharedpref = { module = "net.k1ra.shared_pref_kmm:SharedPrefKmm", version.ref = "sharedpref" }
 kotlinx-browser = { module = "org.jetbrains.kotlinx:kotlinx-browser-wasm-js", version.ref = "browser" }
 stripe-android = { module = "com.stripe:stripe-android", version.ref = "stripe-android" }
+stripe-fincon = { module = "com.stripe:financial-connections", version.ref = "stripe-android" }
+androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+androidx-activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
 
 [plugins]
 androidApplication = { id = "com.android.application", version.ref = "agp" }
@@ -38,3 +45,4 @@ kover = { id = "org.jetbrains.kotlinx.kover", version.ref = "kover" }
 dokka = { id = "org.jetbrains.dokka", version.ref = "dokka" }
 kotlinCocoapods = { id = "org.jetbrains.kotlin.native.cocoapods", version.ref = "kotlin" }
 swiftklib = { id = "io.github.ttypic.swiftklib", version.ref = "swiftklib" }
+kotlinAndroid = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }

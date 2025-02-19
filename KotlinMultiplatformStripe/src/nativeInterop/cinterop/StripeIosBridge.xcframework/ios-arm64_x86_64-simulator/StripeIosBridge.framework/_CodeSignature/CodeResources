@@ -3802,7 +3802,7 @@
 		</dict>
 		<key>Headers/StripeIosBridge-Swift.h</key>
 		<data>
-		xyBZn5xfMER5rRacvt6bcw+MQyk=
+		eOmrXRqcH2EWYWq9SH4Ei6GCnRs=
 		</data>
 		<key>Headers/StripeIosBridge.h</key>
 		<data>
@@ -3822,7 +3822,7 @@
 		</data>
 		<key>Modules/StripeIosBridge.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		gunbIRjEiqT1O6Kd8piqo41/E3E=
+		EJcd4k3et1eMrLB+0mEfm4sMJoA=
 		</data>
 		<key>Modules/StripeIosBridge.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -3834,7 +3834,7 @@
 		</data>
 		<key>Modules/StripeIosBridge.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		MpYCl05yDZfH24gmCFTlMyL4KCo=
+		+UuX1bpy6wsfqb7WYqd7EWlBScY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -7979,7 +7979,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ojxlcSVLKLSd0MBowkOduRjVHqXbf+s7pJ1Hu+yCaaQ=
+			HIJlRUPUFZX6Sc/eK1Nc29ias1kvX+nViZi7HbjqxPg=
 			</data>
 		</dict>
 		<key>Headers/StripeIosBridge.h</key>
@@ -8007,7 +8007,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+W5RNVEEadosIQHl2aOPB906AH4bt+5PlU2EZmCDdCs=
+			XZw8r9UMO8cq5tkaHDeG8NKfPV3slbF1eU/pIGhTfJg=
 			</data>
 		</dict>
 		<key>Modules/StripeIosBridge.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -8028,7 +8028,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			z+/uIcTR+JRu+6TihLLyu646W+tCNUjz87LUyeGo0SM=
+			b0E1tyNzJaueIlpoWNVV22PzygaoTCuQdJz7lpNt5vM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

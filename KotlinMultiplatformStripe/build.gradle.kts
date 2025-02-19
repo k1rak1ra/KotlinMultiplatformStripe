@@ -84,6 +84,7 @@ kotlin {
     sourceSets {
         androidMain.dependencies {
             implementation(libs.stripe.android)
+            implementation(libs.stripe.fincon)
         }
         commonMain.dependencies {
             implementation(compose.runtime)
@@ -118,6 +119,11 @@ android {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11
     }
+}
+dependencies {
+    implementation(libs.androidx.appcompat)
+    implementation(libs.material)
+    implementation(libs.androidx.activity)
 }
 
 publishing {
